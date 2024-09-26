@@ -1,0 +1,15 @@
+- A course timetable
+	- It should be able to notify students 30mins before their classes
+- A news feed that will be for specific for different courses, schools, and group of students
+- The integration of students shop, where students can safely and securely sell their belongings
+- A contact list that shows all your coursemates, and schoolmates that are registered in the app. The follower system is going to be like that of twitter.
+- A scheduling system, and a full fledged calendar system
+- A full fledged journal that would resemble notion in functionalities
+- Todo
+- Popular students utilities such as:
+	- Periodic tables
+	- Logarithm
+	- Calculator cheats, etc.
+- A note for the the studying section where students can take note of what the are studying, and can refer back to the notes anytime they feel like.
+	- Notebook should have as much features as possible like annotations, text design, among other things.
+- For theoretical questions, I am thinking of implementing an AI system that would grade your answers by scanning and converting the provided pictures of your answers, and comparing them to the answers it thinks is correct.

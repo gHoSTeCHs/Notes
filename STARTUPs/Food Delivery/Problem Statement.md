@@ -1,0 +1,14 @@
+Most food delivery apps lack personality. There is no direct link between the users and the vendors. The main objective of this app is to bridge the gap between users and vendor, and change the narrative of the food vending and delivery ecosystem.
+
+The main objectives of the app includes:
+- A followership system between users and vendors where approved vendors can have an account to post food related topics, and have users of the app follow them and interact with their posts.
+- Vendors can have a menu system where they have alternating food menu for each day, and can also have their followers vote for what they would be interested in having the next day or for the week.
+- A unique food catalogue system that has to be updated daily and can have the following features
+	- Require vendors to show the amount of serving available for each food category they have for the day, and this cannot be updated once set. This is to create the illusion of scarcity among the users. 
+	- Vendors will also be required to show the ingredients of their dish to ensure that users with allergies are accounted for.
+- A batch delivery option. This could be the selling point of the this app. This is situation whereby popular and most used vendors can have the option to deliver food to their followers in batches. This is make the delivery fee lesser and easy to afford for all demographic. Users can order what the want for today from yesterday, and can have maybe a bike or two deliver all of them as soon as the vendor is done preparing.
+- User alerts for when whenever the vendors they follow drop an update with regards to having a new delicacy or snack on his or her catalogue. This is to enable users to have access to fresh foods.
+- The comments on a vendors page cannot be delete by the vendor. This is to enable transparency and accountability. The comments will also undergo moderation to ensure that users don't abuse this system.
+- A subscription based delivery option can also be considered where users can pay for their deliveries on a subscription basics. `This will be taken into deep consideration, as there are many downsides to this system especially in our country`. 
+- A unique QR code format that will be used to identify the app. This will be used while authenticating deliveries, downloading the app from external sources, sharing vendor pages, accepting payments, etc.
+- The ability to compare prices of goods from stores and supermarket to check the ones that would be a cheaper alternative. A shopper can make a list of items that he or she wants to purchase, and see the shops that they are available at at, and how much can be saved based on the store they choose to buy from.

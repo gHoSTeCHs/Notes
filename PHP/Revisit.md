@@ -1,0 +1,7 @@
+- [x] [[https://www.youtube.com/watch?v=wYLkf75lpT8&list=PL3VM-unCzF8hy47mt9-chowaHNjfkuEVz&index=15|Database Seeding]]
+- [ ] [[https://www.youtube.com/watch?v=oLy1uXU1q7c&list=PL3VM-unCzF8hy47mt9-chowaHNjfkuEVz&index=14|Pagination]]
+- [ ] [[https://laravel.com/docs/11.x/routing#route-model-binding|Route Model Binding]]
+- [ ] [[https://laravel.com/docs/11.x/rate-limiting#main-content|Rate Limiting]] 
+- [ ] [[https://laravel.com/docs/11.x/routing#named-routes|Named Routes]]
+- [ ] [[https://laravel.com/docs/11.x/eloquent-factories#sequences|Sequences]]
+- [ ] 

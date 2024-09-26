@@ -1,0 +1,6 @@
+Smart contracts are computer programs that are hosted and executed on a blockchain network. Each smart contract consists of code specifying predetermined conditions that, when met, trigger outcomes. By running on a decentralized blockchain instead of a centralized server, smart contracts allow multiple parties to come to a shared result in an accurate, timely, and tamper-proof manner.
+
+Smart contracts are a powerful infrastructure for automation because they are not controlled by a central administrator and are not vulnerable to single points of attack by malicious entities. When applied to multi-party digital agreements, smart contract applications can reduce counterparty risk, increase efficiency, lower costs, and provide new levels of transparency into processes.
+
+## History of Smart Contracts
+Smart contracts were first coined by American computer scientist Nick Szabo in 1994. In his [seminal writing](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart.contracts.html), he gave a broad smart contract definition as follows: “_a computerized transaction protocol that executes the terms of a contract,_” with general objectives to “_satisfy common contractual conditions, minimize exceptions both malicious and accidental, and minimize the need for trusted intermediaries._”

@@ -1,0 +1,2 @@
+### Folder Naming Conventions
+Lets say you have have a job board, with creating, view, and updating views, it would be best practice to have a `jobs` folder that will contain all these view. You can then name the view for displaying the jobs as index, and rename others with the task they are meant to do like create, edit, etc.

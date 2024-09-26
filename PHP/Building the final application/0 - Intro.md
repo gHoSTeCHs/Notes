@@ -1,0 +1,1 @@
+This will serve as a reference point for future projects. I can reference this folder, and be able to customize and understand the workflow, and what to do next.
