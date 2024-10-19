@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel Auth Deepdive/Making RBA (Role Based Auth).md",
-                "mode": "source",
+                "file": "Constraints.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "678cc767ff3ccb5e",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel Auth Deepdive/Making RBA (Role Based Auth).md",
+                "file": "Constraints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel Auth Deepdive/Making RBA (Role Based Auth).md",
+                "file": "Constraints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laravel Auth Deepdive/Making RBA (Role Based Auth).md"
+                "file": "Constraints.md"
               }
             }
           }
@@ -162,8 +161,14 @@
   },
   "active": "3ae95bc498ce78ce",
   "lastOpenFiles": [
-    "Authentication, Authorization/Authentication.md",
+    "Building the final application/6 - Database Seeder.md",
+    "Building the final application/0 - Intro.md",
+    "Building the final application/1 - Database Migrations.md",
+    "Building the final application/2 - Relationships.md",
+    "Building the final application/3 - Factories.md",
+    "Eloquent Relatioships.md",
     "Laravel Auth Deepdive/Making RBA (Role Based Auth).md",
+    "Authentication, Authorization/Authentication.md",
     "Asset Bundling and Vite.md",
     "Building the final application/10 - EagerLoading.md",
     "Laravel Auth Deepdive",
@@ -171,15 +176,10 @@
     "Building the final application/8 - Search.md",
     "Building the final application/7 - Authentication.md",
     "Building the final application/Sequences.md",
-    "Building the final application/0 - Intro.md",
     "Revisit.md",
-    "Building the final application/6 - Database Seeder.md",
     "Building the final application/4 - Routes.md",
     "Building the final application/TDD.md",
-    "Building the final application/3 - Factories.md",
-    "Building the final application/2 - Relationships.md",
     "Queues.md",
-    "Building the final application/1 - Database Migrations.md",
     "Untitled.md",
     "Building the final application",
     "Authentication, Authorization/Authorization.md",
@@ -190,7 +190,6 @@
     "Authentication, Authorization",
     "Tips.md",
     "Tinker Commands.md",
-    "Dedicated Controller Classes",
-    "Forms & CSRF.md"
+    "Dedicated Controller Classes"
   ]
 }

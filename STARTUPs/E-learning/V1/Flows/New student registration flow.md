@@ -1,0 +1,3 @@
+For the prototype of the app, we can have the students enter all the details we require directly from the login form. For future versions, it would make more sense to have an onboarding screen even on the web app, as students would prefer this to be app.
+##### Details required
+For now, we are just requiring the name, phone, school, email, course of study, and level of the student. The school should come from the list of schools we have in our database, and the levels are linked to a particular course, as courses differs in the amount of levels they have.
